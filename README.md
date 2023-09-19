@@ -1,2 +1,2 @@
-# Machine-Learning-with-Python-GFG
-This repository is having all the codes used in Machine Learning with Python course by GFG
+# Machine-Learning-with-Python
+This repository has all the codes used in the Machine Learning with Python c
